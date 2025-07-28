@@ -107,9 +107,6 @@ class _PinVerificationScreenState extends State<PinVerificationScreen> {
   }
 
   void _onTapSubmitButton() {
-    // if (_formKey.currentState!.validate()) {
-    //   // TODO: Sign in with API
-    // }
     Navigator.pushNamed(context, ChangePasswordScreen.name);
   }
 

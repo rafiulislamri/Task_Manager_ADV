@@ -113,9 +113,7 @@ class _ChangePasswordScreenState extends State<ChangePasswordScreen> {
   }
 
   void _onTapSubmitButton() {
-    // if (_formKey.currentState!.validate()) {
-    //   // TODO: Sign in with API
-    // }
+
   }
 
   void _onTapSignInButton() {
